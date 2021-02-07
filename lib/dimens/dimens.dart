@@ -1,0 +1,9 @@
+const int kFontsize = 15;
+const double kGetusersfont = 15;
+const int kFontsizesignin = 30;
+const double kIconsize = 12;
+const double kIconpadding = 8;
+const double kPadding = 18;
+const double kSizedBox = 12;
+const double kDialog = 15;
+const double kThickness = 2.0;
